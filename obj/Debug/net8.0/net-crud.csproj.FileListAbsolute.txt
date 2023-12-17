@@ -1,0 +1,14 @@
+/home/chris/Documentos/net-crud/bin/Debug/net8.0/net-crud
+/home/chris/Documentos/net-crud/bin/Debug/net8.0/net-crud.deps.json
+/home/chris/Documentos/net-crud/bin/Debug/net8.0/net-crud.runtimeconfig.json
+/home/chris/Documentos/net-crud/bin/Debug/net8.0/net-crud.dll
+/home/chris/Documentos/net-crud/bin/Debug/net8.0/net-crud.pdb
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.AssemblyInfoInputs.cache
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.AssemblyInfo.cs
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.csproj.CoreCompileInputs.cache
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.dll
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/refint/net-crud.dll
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.pdb
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/net-crud.genruntimeconfig.cache
+/home/chris/Documentos/net-crud/obj/Debug/net8.0/ref/net-crud.dll
